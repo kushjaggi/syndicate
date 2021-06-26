@@ -31,10 +31,12 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 * Matic formerly Polygon
 * Remix IDE
 * HTML, CSS, Javascript, jQuery
-* 
+
 ## Video Explanation
 https://youtu.be/BvssqTZGhrg
-
+ 
+## Advantages of  using Matic
+Polygon is a multi-chain and complete system that resolves the traditional Etheruem’s issues of throughput, poor user experience, and scaling, unlike Polkadot, Cosmos, and Avalanche, Polygon taking the advantages of Ethereum’s security, openness, and the ecosystem, the Polygon project removes the old barriers of interoperability and scaling of many blockchains, due to its compatibility with Ethereum blockchain make it more attractive for Ethereum based smart contract developers, the architecture depends on four layers, which further divided into two categories of mandatory layer and optional layer, the Polygon networks layer, and Execution layer fall into the mandatory layer.
 ## Further Details
 https://polygon.technology
 
