@@ -16,6 +16,15 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 * Transaction Efficiency
 * Real-time Transactions and ledger
 
+
+## Tech-Stack and Tools:
+
+* Solidity
+* Ethereum Blockchain
+* Matic formerly Polygon
+* Remix IDE
+* HTML, CSS, Javascript, jQuery
+
 ![Web Portal](Screenshots/SignUp.png)
 ![Web Portal](Screenshots/HomePage.png)
 ![Web Portal](Screenshots/Assets.png)
