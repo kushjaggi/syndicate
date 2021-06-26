@@ -29,10 +29,12 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 * Matic formerly Polygon
 * Remix IDE
 * HTML, CSS, Javascript, jQuery
+* 
+## Video Explanation
+https://youtu.be/BvssqTZGhrg
 
 ![Web Portal](Screenshots/SignUp.png)
 ![Web Portal](Screenshots/HomePage.png)
 ![Web Portal](Screenshots/Assets.png)
 
-## Video Explanation
-https://youtu.be/BvssqTZGhrg
+
