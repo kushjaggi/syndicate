@@ -35,6 +35,9 @@ Debt Remittance is currently a cumbersome process that requires days to validate
 ## Video Explanation
 https://youtu.be/BvssqTZGhrg
 
+## Further Details
+https://polygon.technology
+
 ![Web Portal](Screenshots/SignUp.png)
 ![Web Portal](Screenshots/HomePage.png)
 ![Web Portal](Screenshots/Assets.png)
