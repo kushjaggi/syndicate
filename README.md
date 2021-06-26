@@ -3,6 +3,8 @@
 Simplifying Huge Loan Process and Reducing Risk
 
 ## Introduction
+When a borrower requires a sum of money that is too large to be provided by a single lender, or outside the scope of the lender’s risk-exposure level, funds are agglomerated from a number of lenders in a process termed as debt syndication.
+
 The Need for Debt Syndication in India
 
 A number of businesses in the Indian market today could use additional financing solutions for the financial leverage required to scale operations and grow. For a long time, firms in the Indian market have suffered from a lack of options in financing solutions since the debt market in India was less developed than the equity market. Although the equity route is a viable one for raising funds, it provides the investor with a claim to the business and dilutes the ownership interest of the founders. For this reason, many company owners choose to retain their claim to ownership of the business and restrain themselves from seeking equity funds.
